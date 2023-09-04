@@ -46,6 +46,9 @@ devDependencies:
   add:
     specifier: ^2.0.6
     version: 2.0.6
+  postcss:
+    specifier: ^8.4.29
+    version: 8.4.29
   unocss:
     specifier: ^0.55.3
     version: 0.55.3(postcss@8.4.29)(vite@4.4.9)

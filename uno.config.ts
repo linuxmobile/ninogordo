@@ -1,9 +1,15 @@
-import { defineConfig, presetAttributify, presetWind } from 'unocss'
+import { defineConfig, presetAttributify, presetWind, presetWebFonts } from 'unocss'
 
 export default defineConfig({
   presets: [
     presetWind(),
     presetAttributify(),
+    presetWebFonts({
+      provider: 'fontshare',
+      fonts: {
+        sans: 'Work Sans',
+      },
+    })
   ],
   theme: {
     colors: {
