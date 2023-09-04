@@ -24,6 +24,7 @@
     "@unocss/postcss": "^0.55.3",
     "@unocss/reset": "^0.55.3",
     "add": "^2.0.6",
+    "postcss": "^8.4.29",
     "unocss": "^0.55.3"
   }
 }

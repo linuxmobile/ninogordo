@@ -1,2 +1,11 @@
 @import "@unocss/reset/tailwind.css";
 @unocss all;
+
+@font-face {
+  font-family: 'HKS';
+  src: url('/HKS.otf') format('opentype');
+}
+
+.font-japan {
+  font-family: 'HKS';
+}
