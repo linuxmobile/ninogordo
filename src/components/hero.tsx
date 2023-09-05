@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <section className="relative">
+    <section className="relative my-18">
       <div className="relative z-2 py-2 mix-blend-exclusion">
         <h1 className="font-sans font-black text-8xl uppercase leading-none pt-3 py-2">
           Niño Gordo

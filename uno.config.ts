@@ -19,7 +19,7 @@ export default defineConfig({
         foreground: '#E6E1E6',
         red: '#AF282F',
         blue: '#014977',
-        'dark-blue': '#012640',
+        deep: '#012640',
       }
     },
   },
