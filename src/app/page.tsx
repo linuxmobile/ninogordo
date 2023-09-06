@@ -7,7 +7,7 @@ import SpotifyPlayer from "@/components/spotify-player";
 export default function Home() {
   return (
     <main className="flex flex-col items-center justify-center relative">
-      <div className="max-w-xs mx-auto">
+      <div className="max-w-xs sm:max-w-sm md:max-w-2xl lg:max-w-3xl xl:max-w-5xl 2xl:max-w-5xl mx-auto">
         <Hero />
         <About />
         <Divider />
