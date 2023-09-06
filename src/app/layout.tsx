@@ -35,7 +35,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`bg-ng-dark text-ng-foreground px-3 py-4`}>
+      <body className={`bg-ng-dark text-ng-foreground overflow-x-hidden`}>
         {children}
       </body>
     </html>
